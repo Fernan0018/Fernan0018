@@ -23,7 +23,7 @@
 ## 📬 Connect with me
 
 <p align="center">
-  <a href="mailto:cyperfcs@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cyperfcs@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/Fernan0018"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/fernando-rojas-2598393ab/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/f_rojas2567"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
