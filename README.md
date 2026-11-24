@@ -1,7 +1,3 @@
-<p align="center">
-  🇬🇧 <b>English</b> &nbsp;|&nbsp; 🇪🇸 <a href="https://github.com/Fernan0018/Fernan0018/blob/main/README.es.md">Español</a>
-</p>
-
 <h1 align="center">Hi, I'm Fernando Rojas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
