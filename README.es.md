@@ -52,47 +52,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<details><summary><h3>🔥 Racha de contribuciones</h3></summary>
-
-----
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Fernan0018&theme=tokyonight_duo" alt="Fernan0018" /></p>
-
-</details>
-
-<details><summary><h3>💻 Estadísticas del perfil</h3></summary>
-
-----
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Fernan0018's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fernan0018&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fernan0018&langs_count=10&layout=compact&locale=es&theme=tokyonight" alt="Fernan0018" height="230px"/>
-  <br/>
-
-  <b>Nota:</b> Los lenguajes principales solo miden en qué lenguajes está escrito mi código público y no reflejan experiencia ni nivel.
-</p>
-
-</details>
-
-<details><summary><h3>⚡ Actividad reciente</h3></summary>
-
-----
-
-[![Fernan0018's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fernan0018&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</details>
-
-<details><summary><h3>🏆 Trofeos</h3></summary>
-
-----
-
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fernan0018&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Fernan0018" /></a></p>
-
-</details>
-
 <details open><summary><h3>📂 Mis repositorios</h3></summary>
 
 ----
